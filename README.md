@@ -5,7 +5,7 @@ Digital invitations and guest management, from the design to the door.
 MAAZEEM is a multi-tenant SaaS for people who run events: create the event, design the invitation, add guests, send, track who accepted, and check guests in by QR at the venue. It has been used for real events. It targets Saudi Arabia, Syria, Egypt and the UAE, and works in Arabic and English.
 
 > This repo is a public write-up. The product source is private.
-> Full case study: [mohammedkhankan.github.io/khankan-portfolio/en/projects/maazeem](https://mohammedkhankan.github.io/khankan-portfolio/en/projects/maazeem/)
+> Full case study: [mohammedkhankan.ofoqsy.com/en/projects/maazeem](https://mohammedkhankan.ofoqsy.com/en/projects/maazeem/)
 
 ![MAAZEEM dashboard and invitation flow](docs/00-hero-1280.webp)
 
